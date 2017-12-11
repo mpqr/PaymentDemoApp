@@ -1,12 +1,12 @@
 # PaymentDemoApp
 
-##Feature
+## Feature
 - Flow of payment using
 - Scan EMVCo QR
 - Parse the QR to object using [Massterpass QR Core SDK][1] and [Massterpass QR Scan SDK][3]
 - Use the object for payment to merchant
 
-##Resources
+## Resources
 Resources to build application can be found in [Developer Zone][2]
 
 [1]: https://github.com/Mastercard/masterpass-qr-core-sdk-ios

@@ -1,7 +1,7 @@
 # PaymentDemoApp
 
 ## Feature
-- Flow of payment using
+- Flow of payment using Massterpass Core and Scan SDK
 - Scan EMVCo QR
 - Parse the QR to object using [Massterpass QR Core SDK][1] and [Massterpass QR Scan SDK][3]
 - Use the object for payment to merchant
